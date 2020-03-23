@@ -1,0 +1,14 @@
+.Form {
+    & input {
+        width: 300px;
+        height: 60px;
+        margin: 0 auto;
+        margin-bottom: 7px;
+        font-size: 24px;
+    }
+    & button {
+        width: 300px;
+        height: 60px;
+        font-size: 24px;
+    }
+}
